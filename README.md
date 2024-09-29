@@ -1,4 +1,3 @@
-hello
 0215_9
 
 create 2 instances
